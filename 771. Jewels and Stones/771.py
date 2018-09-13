@@ -4,6 +4,7 @@ def numJewelsInStones(self, J, S):
     :type S: str
     :rtype: int
     """
+	# Time: O(m*n)
 	#判断S中字符有多少出现在J中
     res = 0
     for s in S:
