@@ -3,3 +3,4 @@
 709. To Lower Case (skip)
 771. Jewels and Stones
 804. Unique Morse Code Words (skip）
+832. Flipping an Image
