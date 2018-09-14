@@ -1,7 +1,7 @@
 # Leetcode
 
 344.Reverse String (skip)(python trick)
-¢
+
 461.Hamming Distance (To do)
 
 500.Keyboard Row (skip)(bad)
