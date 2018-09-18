@@ -1,0 +1,19 @@
+class Solution(object):
+    def getMinimumDifference(self, root):
+        """
+        :type root: TreeNode
+        :rtype: int
+        """
+		#先中序遍历，再找最小差
+        res = []
+        def help(node):
+            if not node:
+                return
+            help(node.left)
+            res.append(node.val)
+            help(node.right)
+        help(root)
+        _min = abs(res[-1] - res[0])
+        for i in range(len(res)-1):
+            _min = min(_min,res[i+1]-res[i])
+        return _min

@@ -1,26 +1,74 @@
-# Leetcode 44
+# Leetcode
+
+## total:77
+
+13.(skip)(brute force)
 
 104.Maximum Depth of Binary Tree
 
+122.(skip)(bad problem)
+
 136.Single Number
 
+169.(skip)(easy dict)
+
+171.(skip)(brute force)
+
+206.Reverse Linked List(LL base)
+
+217.(skip)(dict)
+
 226.Invert Binary Tree
+
+237.(skip)(bad problem)
+
+242.(skip)(brute force)(dict)
+
+258.(skip)(bad problem)
+
+283.Move Zeroes
 
 292.(skip)(bad problem)
 
 344.Reverse String (skip)(python trick)
 
+349.(skip)(bad problem)
+
+371.(skip)(bit manipulation)
+
+383.(skip)(easy dict)
+
+389.Fine the Difference
+
+404.Sum of Left Leaves
+
 412.Fizz Buzz (skip)(brute force)
+
+427.(skip)(bad)(dfs)
+
+429.N-ary Tree Level Order Traversal
+
+448.Find all Numbers Disappeared in an Array
+
+453.(skip)(math problem)
 
 461.Hamming Distance (To do)
 
 463.Island Perimeter
 
+485.(skip) (brute force)
+
+492.(skip)(brute force)
+
 496.Next Greater Element 1 (skip)
 
 500.Keyboard Row (skip)(bad)
 
+520.(skip)(brute force)
+
 521.(skip)(bad problem)
+
+530.Minimum absolute Difference in BST
 
 556.Reshape the Matrix
 
@@ -36,6 +84,8 @@
 
 590.N-ary Tree Postorder Traversal
 
+598.(skip)(brute force)
+
 617.Merge Two Binary Trees
 
 637.Average of Levels in Binary Tree
@@ -46,11 +96,15 @@
 
 682.Baseball Game (skip)(bad)
 
+690.(skip)(bad)
+
 693.(skip)(bit manipulation)
 
 700.Search in a Binary Searcch Tree
 
 709.To Lower Case (skip)(bad)
+
+717.(skip)(bad problem)
 
 728.Self Dividing Numbers
 
@@ -60,11 +114,21 @@
 
 771.Jewels and Stones
 
+783.(skip)(same with 530)
+
+784.Letter Case Permutation
+
+788.(skip)(bad problem)
+
+796.Rotate String (trick)
+
 804.Unique Morse Code Words (skip）(brute force)
 
 806.Number of Lines To Write String (skip)(bad)
 
 811.Subdomain Visit Count (skip) (brute force)
+
+812.(skip)(bad problem)
 
 821.Shortest Distance to a Character
 
@@ -73,6 +137,8 @@
 832.Flipping an Image
 
 852.Peak Index in a Mountain Array (skip)(bad problem)
+
+860.Lemonade Change(brute force)
 
 868.Binary Gap (skip)(bin manipulation)
 
@@ -83,6 +149,8 @@
 883.Projection Area of 3D shapes
 
 884.Uncommon Words from Two Sentences
+
+888.Fair Candy Swap
 
 893.Groups of Special-Equivalent Strings
 
