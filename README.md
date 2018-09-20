@@ -1,10 +1,16 @@
 # Leetcode
 
-## total:77
+## total:100
 
 13.(skip)(brute force)
 
+21.Merge Two LL
+
 104.Maximum Depth of Binary Tree
+
+107.(skip)(same as BFS)
+
+118.Pascal’s Triangle
 
 122.(skip)(bad problem)
 
@@ -15,6 +21,8 @@
 169.(skip)(easy dict)
 
 171.(skip)(brute force)
+
+202.Happy Number
 
 206.Reverse Linked List(LL base)
 
@@ -27,6 +35,8 @@
 242.(skip)(brute force)(dict)
 
 258.(skip)(bad problem)
+
+268.(skip)(math)(bad problem)
 
 283.Move Zeroes
 
@@ -44,9 +54,15 @@
 
 389.Fine the Difference
 
+401.(skip)
+
 404.Sum of Left Leaves
 
+409.Longest Palindrome(count)(brute force)
+
 412.Fizz Buzz (skip)(brute force)
+
+415.(skip)（底层操作）
 
 427.(skip)(bad)(dfs)
 
@@ -57,6 +73,8 @@
 453.(skip)(math problem)
 
 455.Assign Cookies(two pointers)
+
+458.(skip)(bad problem)(math)
 
 461.Hamming Distance (To do)
 
@@ -70,6 +88,8 @@
 
 500.Keyboard Row (skip)(bad)
 
+504.base 7
+
 506.(skip)(bad problem)
 
 520.(skip)(brute force)
@@ -77,6 +97,12 @@
 521.(skip)(bad problem)
 
 530.Minimum absolute Difference in BST
+
+541.(skip)(bad problem)(brute force)
+
+543.Diameter of Binary Tree
+
+551.(skip)(bad problem)
 
 556.Reshape the Matrix
 
@@ -108,6 +134,10 @@
 
 669.Trim a Binary Search Tree
 
+671.Second Minimum Node In a BT
+
+674.Longest Continuous Increasing Subsequence(same as continuous ones)
+
 682.Baseball Game (skip)(bad)
 
 690.(skip)(bad)
@@ -123,6 +153,8 @@
 717.(skip)(bad problem)
 
 728.Self Dividing Numbers
+
+744.(skip)(binary search)
 
 762.(skip)(bit manipulation)
 
@@ -146,11 +178,19 @@
 
 812.(skip)(bad problem)
 
+819.(skip)(bad problem)
+
 821.Shortest Distance to a Character
 
 824.(skip)(brute force)
 
+830.Position of Large Groups(mind the margin)
+
 832.Flipping an Image
+
+836.Rectangle Overlap
+
+844.Backspace String(stack)
 
 852.Peak Index in a Mountain Array (skip)(bad problem)
 
