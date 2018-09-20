@@ -10,6 +10,8 @@
 
 136.Single Number
 
+167.Two Sum 2 - sorted array
+
 169.(skip)(easy dict)
 
 171.(skip)(brute force)
@@ -38,6 +40,8 @@
 
 383.(skip)(easy dict)
 
+387.First Unique Character in String(dict)
+
 389.Fine the Difference
 
 404.Sum of Left Leaves
@@ -52,6 +56,8 @@
 
 453.(skip)(math problem)
 
+455.Assign Cookies(two pointers)
+
 461.Hamming Distance (To do)
 
 463.Island Perimeter
@@ -63,6 +69,8 @@
 496.Next Greater Element 1 (skip)
 
 500.Keyboard Row (skip)(bad)
+
+506.(skip)(bad problem)
 
 520.(skip)(brute force)
 
@@ -78,6 +86,8 @@
 
 561.Array Partition 1
 
+563.Binary Tree Tilt(bad)
+
 575.Distribute Candies (skip)(bad)
 
 589.N-ary Tree Preorder Traversal
@@ -86,11 +96,15 @@
 
 598.(skip)(brute force)
 
+599.Min Index Sum of Two Lists(dict)(brute force)
+
 617.Merge Two Binary Trees
 
 637.Average of Levels in Binary Tree
 
 657.Robot Return To Origin (skip)(dict)
+
+661.(skip)(bad problem)(brute force)
 
 669.Trim a Binary Search Tree
 
@@ -99,6 +113,8 @@
 690.(skip)(bad)
 
 693.(skip)(bit manipulation)
+
+697.Degree of an Array(brute force)(bad)
 
 700.Search in a Binary Searcch Tree
 
