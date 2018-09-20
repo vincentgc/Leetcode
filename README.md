@@ -1,6 +1,6 @@
 # Leetcode
 
-## total:100
+## total:105
 
 13.(skip)(brute force)
 
