@@ -1,6 +1,6 @@
 # Leetcode
 
-## total:105
+## total:139
 
 1.Two Sum(dict)
 
