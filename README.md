@@ -2,15 +2,39 @@
 
 ## total:105
 
+1.Two Sum(dict)
+
+9.(skip)(string trick)
+
 13.(skip)(brute force)
 
 21.Merge Two LL
+
+26.(skip)(bad problem)
+
+27.(skip)(bad problem)
+
+35.Search Insert Position
+
+38.(skip)(bad problem)
+
+53.Maximum Subarray
+
+66.(skip)(trick)
+
+70.Climbing Stairs
+
+83.Remove duplicates from sorted LL
+
+101.Symmetric Tree(two times traversal)
 
 104.Maximum Depth of Binary Tree
 
 107.(skip)(same as BFS)
 
 118.Pascal’s Triangle
+
+119.Pascal’s Triangle 2 (-118)
 
 122.(skip)(bad problem)
 
@@ -22,6 +46,10 @@
 
 171.(skip)(brute force)
 
+191.(skip)(bit manipulation)
+
+198.House Robber(dp)
+
 202.Happy Number
 
 206.Reverse Linked List(LL base)
@@ -30,11 +58,17 @@
 
 226.Invert Binary Tree
 
+231.Power of Two(skip)(easy)
+
+235.Lowest Common Ancestor of a BST
+
 237.(skip)(bad problem)
 
 242.(skip)(brute force)(dict)
 
 258.(skip)(bad problem)
+
+263.(skip)(bad problem)
 
 268.(skip)(math)(bad problem)
 
@@ -42,11 +76,21 @@
 
 292.(skip)(bad problem)
 
+326.(skip)(math)
+
+342.Power of Four(skip)
+
 344.Reverse String (skip)(python trick)
+
+345.(skip)(bad problem)
 
 349.(skip)(bad problem)
 
+367.(skip)(trick)(binary search)
+
 371.(skip)(bit manipulation)
+
+374.(skip)(bad problem)(binary search)
 
 383.(skip)(easy dict)
 
@@ -68,6 +112,10 @@
 
 429.N-ary Tree Level Order Traversal
 
+434.(skip)(bad problem)
+
+441.(skip)(bad problem)(math)
+
 448.Find all Numbers Disappeared in an Array
 
 453.(skip)(math problem)
@@ -76,9 +124,13 @@
 
 458.(skip)(bad problem)(math)
 
+459.Repeated Substring Pattern(trick)
+
 461.Hamming Distance (To do)
 
 463.Island Perimeter
+
+482.(skip)(bad problem)
 
 485.(skip) (brute force)
 
@@ -87,6 +139,8 @@
 496.Next Greater Element 1 (skip)
 
 500.Keyboard Row (skip)(bad)
+
+501.Find Mode in BST
 
 504.base 7
 
@@ -120,6 +174,8 @@
 
 590.N-ary Tree Postorder Traversal
 
+594.Longest harmonious Subsequence(dict)
+
 598.(skip)(brute force)
 
 599.Min Index Sum of Two Lists(dict)(brute force)
@@ -127,6 +183,10 @@
 617.Merge Two Binary Trees
 
 637.Average of Levels in Binary Tree
+
+643.Maximum Average Subarray 1
+
+645.(skip)(dict)
 
 657.Robot Return To Origin (skip)(dict)
 
@@ -152,9 +212,15 @@
 
 717.(skip)(bad problem)
 
+720.(skip)(bad problem)
+
+724.Find Pivot Index(trick)
+
 728.Self Dividing Numbers
 
 744.(skip)(binary search)
+
+747.(skip)(dict)(brute force)
 
 762.(skip)(bit manipulation)
 
@@ -191,6 +257,8 @@
 836.Rectangle Overlap
 
 844.Backspace String(stack)
+
+849.Maximum Distance to Closet Person
 
 852.Peak Index in a Mountain Array (skip)(bad problem)
 
