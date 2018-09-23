@@ -1,12 +1,14 @@
 # Leetcode
 
-## total:139
+## total:165
 
 1.Two Sum(dict)
 
 9.(skip)(string trick)
 
 13.(skip)(brute force)
+
+14.(skip)(bad problem)
 
 20.Valid Parentheses
 
@@ -22,19 +24,27 @@
 
 53.Maximum Subarray
 
+58.(skip)(python trick)
+
 66.(skip)(trick)
 
 67.(skip)(bit manipulation)
 
+69.(skip)(math)
+
 70.Climbing Stairs
 
 83.Remove duplicates from sorted LL
+
+88.(skip)(bad problem)
 
 101.Symmetric Tree(two times traversal)
 
 104.Maximum Depth of Binary Tree
 
 107.(skip)(same as BFS)
+
+111.Minimum Depth
 
 112.Path Sum
 
@@ -43,6 +53,8 @@
 119.Pascal’s Triangle 2 (-118)
 
 122.(skip)(bad problem)
+
+125.(skip)(bad problem)
 
 136.Single Number
 
@@ -60,15 +72,21 @@
 
 202.Happy Number
 
+203.Remove Elements in LL
+
 205.Isomorphic Strings
 
 206.Reverse Linked List(LL base)
 
-217.(skip)(dict)
+217.Contain Duplicates 1 (skip)(dict)
+
+219.Contain Duplicates 2
 
 226.Invert Binary Tree
 
 231.Power of Two(skip)(easy)
+
+234.Palindrome LL
 
 235.Lowest Common Ancestor of a BST
 
@@ -84,7 +102,11 @@
 
 283.Move Zeroes
 
+290.Word Pattern (same as 205)
+
 292.(skip)(bad problem)
+
+303.Range Sum Query
 
 326.(skip)(math)
 
@@ -108,6 +130,8 @@
 
 389.Fine the Difference
 
+400.(skip)(math
+
 401.(skip)
 
 404.Sum of Left Leaves
@@ -115,6 +139,8 @@
 409.Longest Palindrome(count)(brute force)
 
 412.Fizz Buzz (skip)(brute force)
+
+414.(skip)(bad problem)
 
 415.(skip)（底层操作）
 
@@ -158,6 +184,8 @@
 
 506.(skip)(bad problem)
 
+507.(skip)(math)
+
 520.(skip)(brute force)
 
 521.(skip)(bad problem)
@@ -196,6 +224,8 @@
 
 617.Merge Two Binary Trees
 
+633.Sum of Square Numbers
+
 637.Average of Levels in Binary Tree
 
 643.Maximum Average Subarray 1
@@ -212,7 +242,11 @@
 
 674.Longest Continuous Increasing Subsequence(same as continuous ones)
 
+680.Valid Palindrome 2
+
 682.Baseball Game (skip)(bad)
+
+686.Repeated String Match
 
 690.(skip)(bad)
 
