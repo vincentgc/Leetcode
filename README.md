@@ -8,6 +8,8 @@
 
 13.(skip)(brute force)
 
+20.Valid Parentheses
+
 21.Merge Two LL
 
 26.(skip)(bad problem)
@@ -22,6 +24,8 @@
 
 66.(skip)(trick)
 
+67.(skip)(bit manipulation)
+
 70.Climbing Stairs
 
 83.Remove duplicates from sorted LL
@@ -32,6 +36,8 @@
 
 107.(skip)(same as BFS)
 
+112.Path Sum
+
 118.Pascal’s Triangle
 
 119.Pascal’s Triangle 2 (-118)
@@ -39,6 +45,8 @@
 122.(skip)(bad problem)
 
 136.Single Number
+
+141.LL Cycle
 
 167.Two Sum 2 - sorted array
 
@@ -51,6 +59,8 @@
 198.House Robber(dp)
 
 202.Happy Number
+
+205.Isomorphic Strings
 
 206.Reverse Linked List(LL base)
 
@@ -116,6 +126,8 @@
 
 441.(skip)(bad problem)(math)
 
+443.(skip)(bad broblem)(two pointer)
+
 448.Find all Numbers Disappeared in an Array
 
 453.(skip)(math problem)
@@ -162,6 +174,8 @@
 
 557.Reverse words in a String 3
 
+558.(skip)(bad problem)
+
 559.Maximum Depth of N-ary Tree
 
 561.Array Partition 1
@@ -207,6 +221,8 @@
 697.Degree of an Array(brute force)(bad)
 
 700.Search in a Binary Searcch Tree
+
+704.Binary Search
 
 709.To Lower Case (skip)(bad)
 
@@ -255,6 +271,8 @@
 832.Flipping an Image
 
 836.Rectangle Overlap
+
+840.(skip)(bad problem)
 
 844.Backspace String(stack)
 
