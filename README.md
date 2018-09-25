@@ -1,6 +1,6 @@
 # Leetcode
 
-## total:easy(170/237)
+## total:easy(170/237) medium(18/437) hard(x/x)
 
 1.Two Sum(dict)
 
@@ -102,6 +102,8 @@
 
 258.(skip)(bad problem)
 
+260.Single Number 3(skip)(to be optimized)
+
 263.(skip)(bad problem)
 
 268.(skip)(math)(bad problem)
@@ -115,6 +117,8 @@
 303.Range Sum Query
 
 326.(skip)(math)
+
+338.Counting Bits
 
 342.Power of Four(skip)
 
@@ -158,6 +162,8 @@
 
 441.(skip)(bad problem)(math)
 
+442/448.Find All Duplicates in an Array(similar as 448)
+
 443.(skip)(bad broblem)(two pointer)
 
 448.Find all Numbers Disappeared in an Array
@@ -194,6 +200,10 @@
 
 507.(skip)(math)
 
+513/BT.Find Bottom Left Tree Value(Similar as 637)(BFS)
+
+515/BT.Find Largest value in each Tree Row(similar as 637)
+
 520.(skip)(brute force)
 
 521.(skip)(bad problem)
@@ -202,11 +212,17 @@
 
 535.(skip)(bad problem)
 
+537.(skip)(bad problem)
+
+540.Single Element in Sorted Array
+
 541.(skip)(bad problem)(brute force)
 
 543.Diameter of Binary Tree
 
 551.(skip)(bad problem)
+
+553.(skip)(bad problem)
 
 556.Reshape the Matrix
 
@@ -268,6 +284,8 @@
 
 700.Search in a Binary Searcch Tree
 
+701/BST.Insert into a BST
+
 704.Binary Search
 
 709.To Lower Case (skip)(bad)
@@ -280,11 +298,15 @@
 
 728.Self Dividing Numbers
 
+739.Daily Temperature(stack)
+
 744.(skip)(binary search)
 
 747.(skip)(dict)(brute force)
 
 762.(skip)(bit manipulation)
+
+763.Partition Labels
 
 766.Toeplitz Matrix
 
@@ -296,6 +318,8 @@
 
 788.(skip)(bad problem)
 
+791.Custom Sort String
+
 796.Rotate String (trick)
 
 804.Unique Morse Code Words (skip）(brute force)
@@ -305,6 +329,8 @@
 811.Subdomain Visit Count (skip) (brute force)
 
 812.(skip)(bad problem)
+
+814/BT.BT prunning
 
 819.(skip)(bad problem)
 
@@ -341,6 +367,10 @@
 884.Uncommon Words from Two Sentences
 
 888.Fair Candy Swap
+
+889/BT.Construct BT from pre and post traversal
+
+890/205.Find and Replace Pattern(based on 205)
 
 893.Groups of Special-Equivalent Strings
 
