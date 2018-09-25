@@ -1,8 +1,10 @@
 # Leetcode
 
-## total:165
+## total:easy(170/237)
 
 1.Two Sum(dict)
+
+7.(skip)(math)
 
 9.(skip)(string trick)
 
@@ -62,9 +64,13 @@
 
 167.Two Sum 2 - sorted array
 
+168.(skip)(brute force)
+
 169.(skip)(easy dict)
 
 171.(skip)(brute force)
+
+189.Rotate Array
 
 191.(skip)(bit manipulation)
 
@@ -168,6 +174,8 @@
 
 463.Island Perimeter
 
+479.(skip)(bad problem)(math)
+
 482.(skip)(bad problem)
 
 485.(skip) (brute force)
@@ -191,6 +199,8 @@
 521.(skip)(bad problem)
 
 530.Minimum absolute Difference in BST
+
+535.(skip)(bad problem)
 
 541.(skip)(bad problem)(brute force)
 
@@ -231,6 +241,8 @@
 643.Maximum Average Subarray 1
 
 645.(skip)(dict)
+
+654.Maximum BT
 
 657.Robot Return To Origin (skip)(dict)
 
@@ -313,6 +325,8 @@
 849.Maximum Distance to Closet Person
 
 852.Peak Index in a Mountain Array (skip)(bad problem)
+
+859.Buddy String
 
 860.Lemonade Change(brute force)
 
