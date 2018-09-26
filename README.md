@@ -1,6 +1,6 @@
 # Leetcode
 
-## total:easy(170/237) medium(18/437) hard(x/x)
+## total:easy(170/237) medium(41/437) hard(x/x)
 
 1.Two Sum(dict)
 
@@ -16,6 +16,8 @@
 
 21.Merge Two LL
 
+22.Generate Parentheses
+
 26.(skip)(bad problem)
 
 27.(skip)(bad problem)
@@ -23,6 +25,8 @@
 35.Search Insert Position
 
 38.(skip)(bad problem)
+
+46.Permutations(backstring)
 
 53.Maximum Subarray
 
@@ -39,6 +43,8 @@
 83.Remove duplicates from sorted LL
 
 88.(skip)(bad problem)
+
+94/BT.BT Inorder Traversal
 
 101.Symmetric Tree(two times traversal)
 
@@ -62,6 +68,8 @@
 
 141.LL Cycle
 
+144/BT.BT Preorder Traversal
+
 167.Two Sum 2 - sorted array
 
 168.(skip)(brute force)
@@ -84,6 +92,8 @@
 
 206.Reverse Linked List(LL base)
 
+216.Combination Sum 3
+
 217.Contain Duplicates 1 (skip)(dict)
 
 219.Contain Duplicates 2
@@ -97,6 +107,8 @@
 235.Lowest Common Ancestor of a BST
 
 237.(skip)(bad problem)
+
+238.Product of Array Except Self
 
 242.(skip)(brute force)(dict)
 
@@ -126,6 +138,8 @@
 
 345.(skip)(bad problem)
 
+347/451.Top K Frequent Elements(similar as 451)
+
 349.(skip)(bad problem)
 
 367.(skip)(trick)(binary search)
@@ -135,6 +149,8 @@
 374.(skip)(bad problem)(binary search)
 
 383.(skip)(easy dict)
+
+384.(skip)(bad problem)
 
 387.First Unique Character in String(dict)
 
@@ -158,7 +174,7 @@
 
 429.N-ary Tree Level Order Traversal
 
-434.(skip)(bad problem)
+434.(skComip)(bad problem)
 
 441.(skip)(bad problem)(math)
 
@@ -167,6 +183,8 @@
 443.(skip)(bad broblem)(two pointer)
 
 448.Find all Numbers Disappeared in an Array
+
+451.Sort Character By frequency
 
 453.(skip)(math problem)
 
@@ -178,6 +196,8 @@
 
 461.Hamming Distance (To do)
 
+462.(skip)(math)
+
 463.Island Perimeter
 
 479.(skip)(bad problem)(math)
@@ -188,17 +208,23 @@
 
 492.(skip)(brute force)
 
+495.(skip)(bad problem)
+
 496.Next Greater Element 1 (skip)
 
 500.Keyboard Row (skip)(bad)
 
 501.Find Mode in BST
 
+503.Next Greater Element 2(stack)
+
 504.base 7
 
 506.(skip)(bad problem)
 
 507.(skip)(math)
+
+508/BT.Most Frequent Subtree Sum
 
 513/BT.Find Bottom Left Tree Value(Similar as 637)(BFS)
 
@@ -236,6 +262,8 @@
 
 563.Binary Tree Tilt(bad)
 
+565.Array Nesting
+
 575.Distribute Candies (skip)(bad)
 
 589.N-ary Tree Preorder Traversal
@@ -258,7 +286,11 @@
 
 645.(skip)(dict)
 
+647.Palindromic Substrings(dp)
+
 654.Maximum BT
+
+655.(skip)(bad problem)
 
 657.Robot Return To Origin (skip)(dict)
 
@@ -267,6 +299,8 @@
 669.Trim a Binary Search Tree
 
 671.Second Minimum Node In a BT
+
+672.(skip)(bad problem)
 
 674.Longest Continuous Increasing Subsequence(same as continuous ones)
 
@@ -304,6 +338,8 @@
 
 747.(skip)(dict)(brute force)
 
+748.(skip)(bad problem)
+
 762.(skip)(bit manipulation)
 
 763.Partition Labels
@@ -312,11 +348,15 @@
 
 771.Jewels and Stones
 
+781.(skip)(math)
+
 783.(skip)(same with 530)
 
 784.Letter Case Permutation
 
 788.(skip)(bad problem)
+
+789.(skip)(bad problem)(math)
 
 791.Custom Sort String
 
@@ -331,6 +371,8 @@
 812.(skip)(bad problem)
 
 814/BT.BT prunning
+
+817.(skip)(bad problem)
 
 819.(skip)(bad problem)
 
@@ -351,6 +393,10 @@
 849.Maximum Distance to Closet Person
 
 852.Peak Index in a Mountain Array (skip)(bad problem)
+
+856.Score of Parentheses
+
+858.(skip)(math)
 
 859.Buddy String
 
