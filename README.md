@@ -1,12 +1,14 @@
 # Leetcode
 
-## total:easy(170/237) medium(41/437) hard(x/x)
+## total:easy(170/237) medium(45/437) hard(x/x)
 
 1.Two Sum(dict)
 
 7.(skip)(math)
 
 9.(skip)(string trick)
+
+12.(skip)(bad problem)
 
 13.(skip)(brute force)
 
@@ -39,6 +41,8 @@
 69.(skip)(math)
 
 70.Climbing Stairs
+
+78.Subsets(backtracking)
 
 83.Remove duplicates from sorted LL
 
@@ -99,6 +103,8 @@
 219.Contain Duplicates 2
 
 226.Invert Binary Tree
+
+230/BST.K-th Smallest element in BST 
 
 231.Power of Two(skip)(easy)
 
@@ -199,6 +205,8 @@
 462.(skip)(math)
 
 463.Island Perimeter
+
+477.Total Hamming Distance(skip)(bit manipulation)(string trick)
 
 479.(skip)(bad problem)(math)
 
