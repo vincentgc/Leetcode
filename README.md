@@ -1,6 +1,6 @@
 # Leetcode
 
-## total:easy(170/237) medium(45/437) hard(x/x)
+## total:easy(170/237) medium(48/437) hard(x/x)
 
 1.Two Sum(dict)
 
@@ -258,6 +258,8 @@
 
 553.(skip)(bad problem)
 
+554.Brick Wall(hash table)
+
 556.Reshape the Matrix
 
 557.Reverse words in a String 3
@@ -293,6 +295,8 @@
 643.Maximum Average Subarray 1
 
 645.(skip)(dict)
+
+646.Maximum Length of Pair Chain
 
 647.Palindromic Substrings(dp)
 
@@ -337,6 +341,8 @@
 720.(skip)(bad problem)
 
 724.Find Pivot Index(trick)
+
+725/LL.Split LL in Parts
 
 728.Self Dividing Numbers
 
