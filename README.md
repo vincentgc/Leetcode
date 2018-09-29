@@ -1,6 +1,6 @@
 # Leetcode
-y
-## total:easy(170/237) medium(56/437) hard(x/x)
+
+## total:easy(170/237) medium(61/437) hard(x/x)
 
 1.Two Sum(dict)
 
@@ -51,6 +51,8 @@ y
 94/BT.BT Inorder Traversal
 
 101.Symmetric Tree(two times traversal)
+
+102/BT.BT level order Traversal
 
 104.Maximum Depth of Binary Tree
 
@@ -168,6 +170,8 @@ y
 
 389.Fine the Difference
 
+392.Is Subsequence
+
 398.(skip)(bad problem)
 
 400.(skip)(math
@@ -183,6 +187,8 @@ y
 414.(skip)(bad problem)
 
 415.(skip)（底层操作）
+
+423.(skip)(bad problem)
 
 427.(skip)(bad)(dfs)
 
@@ -217,6 +223,8 @@ y
 477.Total Hamming Distance(skip)(bit manipulation)(string trick)
 
 479.(skip)(bad problem)(math)
+
+481.(skip)(bad problem)
 
 482.(skip)(bad problem)
 
@@ -285,6 +293,8 @@ y
 565.Array Nesting
 
 575.Distribute Candies (skip)(bad)
+
+583.Delete Operation for Two Strings
 
 589.N-ary Tree Preorder Traversal
 
