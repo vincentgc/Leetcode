@@ -1,6 +1,6 @@
 # Leetcode
 
-## total:easy(170/237) medium(48/437) hard(x/x)
+## total:easy(170/237) medium(51/437) hard(x/x)
 
 1.Two Sum(dict)
 
@@ -136,9 +136,13 @@
 
 326.(skip)(math)
 
+328/LL.Odd Even LL
+
 338.Counting Bits
 
 342.Power of Four(skip)
+
+343.Integer Break
 
 344.Reverse String (skip)(python trick)
 
@@ -247,6 +251,8 @@
 535.(skip)(bad problem)
 
 537.(skip)(bad problem)
+
+539.Minimum Time Difference
 
 540.Single Element in Sorted Array
 
