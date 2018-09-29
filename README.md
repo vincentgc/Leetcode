@@ -1,6 +1,6 @@
 # Leetcode
-
-## total:easy(170/237) medium(51/437) hard(x/x)
+y
+## total:easy(170/237) medium(56/437) hard(x/x)
 
 1.Two Sum(dict)
 
@@ -152,6 +152,8 @@
 
 349.(skip)(bad problem)
 
+357.(skip)(bad problem)
+
 367.(skip)(trick)(binary search)
 
 371.(skip)(bit manipulation)
@@ -165,6 +167,8 @@
 387.First Unique Character in String(dict)
 
 389.Fine the Difference
+
+398.(skip)(bad problem)
 
 400.(skip)(math
 
@@ -294,9 +298,13 @@
 
 617.Merge Two Binary Trees
 
+623/BT.Add One Row to Tree
+
 633.Sum of Square Numbers
 
 637.Average of Levels in Binary Tree
+
+638.(skip)(bad problem)
 
 643.Maximum Average Subarray 1
 
@@ -305,6 +313,8 @@
 646.Maximum Length of Pair Chain
 
 647.Palindromic Substrings(dp)
+
+650.2 Keys Keyboard(dp)
 
 654.Maximum BT
 
