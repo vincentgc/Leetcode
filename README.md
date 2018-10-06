@@ -1,6 +1,6 @@
 # Leetcode
 
-## total:easy(170/237) medium(61/437) hard(x/x)
+## total:easy(170/237) medium(70/437) hard(x/x)
 
 1.Two Sum(dict)
 
@@ -30,9 +30,13 @@
 
 46.Permutations(backstring)
 
+48.Rotate Matrix
+
 53.Maximum Subarray
 
 58.(skip)(python trick)
+
+62.Unique Paths
 
 66.(skip)(trick)
 
@@ -89,6 +93,8 @@
 191.(skip)(bit manipulation)
 
 198.House Robber(dp)
+
+199/BT.BT right side view
 
 202.Happy Number
 
@@ -206,6 +212,8 @@
 
 451.Sort Character By frequency
 
+452.Minimum Number of Arrows to Burst Ballons(求交集）
+
 453.(skip)(math problem)
 
 455.Assign Cookies(two pointers)
@@ -232,9 +240,13 @@
 
 492.(skip)(brute force)
 
+494/Sum.Target Sum
+
 495.(skip)(bad problem)
 
 496.Next Greater Element 1 (skip)
+
+498.Diagonal Traverse(skip)
 
 500.Keyboard Row (skip)(bad)
 
@@ -374,6 +386,8 @@
 
 739.Daily Temperature(stack)
 
+740.Delete and Earn
+
 744.(skip)(binary search)
 
 747.(skip)(dict)(brute force)
@@ -430,7 +444,11 @@
 
 844.Backspace String(stack)
 
+846.Hand of Straights
+
 849.Maximum Distance to Closet Person
+
+851.Loud and Rich(skip)(bad problem)
 
 852.Peak Index in a Mountain Array (skip)(bad problem)
 
