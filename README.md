@@ -1,6 +1,6 @@
 # Leetcode
 
-## total:easy(170/237) medium(70/437) hard(x/x)
+## total:easy(170/237) medium(76/437) hard(x/x)
 
 1.Two Sum(dict)
 
@@ -28,6 +28,8 @@
 
 38.(skip)(bad problem)
 
+39/Sum.Combination Sum
+
 46.Permutations(backstring)
 
 48.Rotate Matrix
@@ -46,11 +48,15 @@
 
 70.Climbing Stairs
 
+77.Combinations
+
 78.Subsets(backtracking)
 
 83.Remove duplicates from sorted LL
 
 88.(skip)(bad problem)
+
+89.(skip)(bad problem)
 
 94/BT.BT Inorder Traversal
 
@@ -75,6 +81,8 @@
 125.(skip)(bad problem)
 
 136.Single Number
+
+137.(skip)(bit manipulation)
 
 141.LL Cycle
 
@@ -116,7 +124,7 @@
 
 231.Power of Two(skip)(easy)
 
-234.Palindrome LL
+234/LL.Palindrome LL
 
 235.Lowest Common Ancestor of a BST
 
@@ -186,7 +194,7 @@
 
 404.Sum of Left Leaves
 
-409.Longest Palindrome(count)(brute force)
+409/Palin.Longest Palindrome(count)(brute force)
 
 412.Fizz Buzz (skip)(brute force)
 
@@ -266,6 +274,8 @@
 
 515/BT.Find Largest value in each Tree Row(similar as 637)
 
+516/Palin.Longest Palindrome Subsequence
+
 520.(skip)(brute force)
 
 521.(skip)(bad problem)
@@ -334,7 +344,7 @@
 
 646.Maximum Length of Pair Chain
 
-647.Palindromic Substrings(dp)
+647/Palin.Palindromic Substrings(dp)
 
 650.2 Keys Keyboard(dp)
 
@@ -354,7 +364,7 @@
 
 674.Longest Continuous Increasing Subsequence(same as continuous ones)
 
-680.Valid Palindrome 2
+680/Palin.Valid Palindrome 2
 
 682.Baseball Game (skip)(bad)
 
@@ -429,6 +439,8 @@
 817.(skip)(bad problem)
 
 819.(skip)(bad problem)
+
+820.Short Encoding of Words
 
 821.Shortest Distance to a Character
 
