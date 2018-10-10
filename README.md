@@ -1,6 +1,6 @@
 # Leetcode
 
-## total:easy(170/237) medium(76/437) hard(x/x)
+## total:easy(170/237) medium(87/437) hard(x/x)
 
 1.Two Sum(dict)
 
@@ -38,7 +38,11 @@
 
 58.(skip)(python trick)
 
+59.Spiral Matrix 2(brute force)
+
 62.Unique Paths
+
+64.Minimum Path Sum(dp)
 
 66.(skip)(trick)
 
@@ -59,6 +63,8 @@
 89.(skip)(bad problem)
 
 94/BT.BT Inorder Traversal
+
+96/BST.Unique BST
 
 101.Symmetric Tree(two times traversal)
 
@@ -112,6 +118,8 @@
 
 206.Reverse Linked List(LL base)
 
+215.Kth Largest number in an array(to do again)
+
 216.Combination Sum 3
 
 217.Contain Duplicates 1 (skip)(dict)
@@ -150,6 +158,10 @@
 
 303.Range Sum Query
 
+309.Best Time to Buy and Sell with Cooldown
+
+319.(dkip)(bad problem)
+
 326.(skip)(math)
 
 328/LL.Odd Even LL
@@ -176,13 +188,19 @@
 
 374.(skip)(bad problem)(binary search)
 
+377/Sum.Combination Sum 4
+
 383.(skip)(easy dict)
 
 384.(skip)(bad problem)
 
+386.(skip)(str-int tricl
+
 387.First Unique Character in String(dict)
 
 389.Fine the Difference
+
+390.(skip)(bad problem)
 
 392.Is Subsequence
 
@@ -236,6 +254,8 @@
 
 463.Island Perimeter
 
+470.Implement Rand10 using Rand7
+
 477.Total Hamming Distance(skip)(bit manipulation)(string trick)
 
 479.(skip)(bad problem)(math)
@@ -279,6 +299,8 @@
 520.(skip)(brute force)
 
 521.(skip)(bad problem)
+
+524.Longest Word in Dic	 Trough Deleting
 
 530.Minimum absolute Difference in BST
 
