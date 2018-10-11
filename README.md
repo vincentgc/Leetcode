@@ -34,6 +34,8 @@
 
 48.Rotate Matrix
 
+49.Group Anagram
+
 53.Maximum Subarray
 
 58.(skip)(python trick)
@@ -93,6 +95,8 @@
 141.LL Cycle
 
 144/BT.BT Preorder Traversal
+
+153.Find Minimum in Rotated Sorted Array
 
 167.Two Sum 2 - sorted array
 
@@ -451,6 +455,8 @@
 789.(skip)(bad problem)(math)
 
 791.Custom Sort String
+
+795.Number of Subarray with Bounded Maximum
 
 796.Rotate String (trick)
 
