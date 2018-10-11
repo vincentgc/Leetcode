@@ -1,6 +1,6 @@
 # Leetcode
 
-## total:easy(170/237) medium(87/437) hard(x/x)
+## total:easy(170/237) medium(93/437) hard(x/x)
 
 1.Two Sum(dict)
 
@@ -222,6 +222,8 @@
 
 423.(skip)(bad problem)
 
+424.Longest Repeating Char Replacement(slide window) 
+
 427.(skip)(bad)(dfs)
 
 429.N-ary Tree Level Order Traversal
@@ -394,6 +396,8 @@
 
 690.(skip)(bad)
 
+692.Top K Frequent Words
+
 693.(skip)(bit manipulation)
 
 697.Degree of an Array(brute force)(bad)
@@ -407,6 +411,8 @@
 709.To Lower Case (skip)(bad)
 
 717.(skip)(bad problem)
+
+718.Maximum Length of Repeated Subarray(dp)(to do again)
 
 720.(skip)(bad problem)
 
@@ -458,6 +464,8 @@
 
 814/BT.BT prunning
 
+816.(skip)(bad problem)
+
 817.(skip)(bad problem)
 
 819.(skip)(bad problem)
@@ -469,6 +477,8 @@
 824.(skip)(brute force)
 
 830.Position of Large Groups(mind the margin)
+
+831.(skip)(bad problem)
 
 832.Flipping an Image
 
