@@ -1,7 +1,11 @@
 # Leetcode
 
-## total:easy(170/237) medium(93/437) hard(x/x)
+## total:
+easy(170/237) 
+medium(107/437) 
+hard(x/x)
 
+## Problem
 1.Two Sum(dict)
 
 7.(skip)(math)
@@ -19,6 +23,8 @@
 21.Merge Two LL
 
 22.Generate Parentheses
+
+24/LL.Swap Nodes in Pairs
 
 26.(skip)(bad problem)
 
@@ -54,6 +60,8 @@
 
 70.Climbing Stairs
 
+75.Sort Colors
+
 77.Combinations
 
 78.Subsets(backtracking)
@@ -63,6 +71,8 @@
 88.(skip)(bad problem)
 
 89.(skip)(bad problem)
+
+90/78.Subsets 2
 
 94/BT.BT Inorder Traversal
 
@@ -97,6 +107,8 @@
 144/BT.BT Preorder Traversal
 
 153.Find Minimum in Rotated Sorted Array
+
+162.(skip)(bad problem)
 
 167.Two Sum 2 - sorted array
 
@@ -232,7 +244,9 @@
 
 429.N-ary Tree Level Order Traversal
 
-434.(skComip)(bad problem)
+434.(skip)(bad problem)
+
+435.Non-overlapping Interval
 
 441.(skip)(bad problem)(math)
 
@@ -271,6 +285,8 @@
 482.(skip)(bad problem)
 
 485.(skip) (brute force)
+
+491/78.Increasing Subsequence
 
 492.(skip)(brute force)
 
@@ -336,6 +352,8 @@
 
 559.Maximum Depth of N-ary Tree
 
+560.Subarray Sum Equal to K
+
 561.Array Partition 1
 
 563.Binary Tree Tilt(bad)
@@ -349,6 +367,8 @@
 589.N-ary Tree Preorder Traversal
 
 590.N-ary Tree Postorder Traversal
+
+593.(skip)(bad problem)
 
 594.Longest harmonious Subsequence(dict)
 
@@ -375,6 +395,8 @@
 647/Palin.Palindromic Substrings(dp)
 
 650.2 Keys Keyboard(dp)
+
+652/BT.Find Duplicate Subtrees
 
 654.Maximum BT
 
@@ -488,6 +510,8 @@
 
 832.Flipping an Image
 
+833.(skip)(bad problem)
+
 836.Rectangle Overlap
 
 840.(skip)(bad problem)
@@ -529,3 +553,5 @@
 893.Groups of Special-Equivalent Strings
 
 896.Monotonic Array
+
+915.Partition Array into Disjoint Intervals
