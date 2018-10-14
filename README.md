@@ -2,7 +2,7 @@
 
 ## total:
 easy(170/237) 
-medium(107/437) 
+medium(130/437) 
 hard(x/x)
 
 ## Problem
@@ -12,11 +12,15 @@ hard(x/x)
 
 9.(skip)(string trick)
 
+11.Container with Most Water
+
 12.(skip)(bad problem)
 
 13.(skip)(brute force)
 
 14.(skip)(bad problem)
+
+17.Letter Combination of a Phone Number
 
 20.Valid Parentheses
 
@@ -36,7 +40,11 @@ hard(x/x)
 
 39/Sum.Combination Sum
 
+40/Sum.Combination Sum 2
+
 46.Permutations(backstring)
+
+47/46.Permutations 2
 
 48.Rotate Matrix
 
@@ -66,6 +74,8 @@ hard(x/x)
 
 78.Subsets(backtracking)
 
+80.(skip)(bad problem)
+
 83.Remove duplicates from sorted LL
 
 88.(skip)(bad problem)
@@ -82,13 +92,21 @@ hard(x/x)
 
 102/BT.BT level order Traversal
 
+103/BT.BT zigzag Trversal
+
 104.Maximum Depth of Binary Tree
+
+105/BT.Construct BT from inorder and preorder traversal
 
 107.(skip)(same as BFS)
 
 111.Minimum Depth
 
-112.Path Sum
+112/BT.Path Sum
+
+113/BT.Path Sum 2
+
+114/BT.Flattern Bt to LL
 
 118.Pascal’s Triangle
 
@@ -97,6 +115,10 @@ hard(x/x)
 122.(skip)(bad problem)
 
 125.(skip)(bad problem)
+
+129/BT.Sum Root to Leaf Numbers
+
+131/Palindrome.Palindrome partition
 
 136.Single Number
 
@@ -156,6 +178,8 @@ hard(x/x)
 
 238.Product of Array Except Self
 
+240.Search a 2D matrix 2
+
 242.(skip)(brute force)(dict)
 
 258.(skip)(bad problem)
@@ -172,6 +196,8 @@ hard(x/x)
 
 292.(skip)(bad problem)
 
+300.Longest Increasing Subsequence
+
 303.Range Sum Query
 
 309.Best Time to Buy and Sell with Cooldown
@@ -181,6 +207,8 @@ hard(x/x)
 326.(skip)(math)
 
 328/LL.Odd Even LL
+
+334.Increasing Triplet Subsequent 
 
 338.Counting Bits
 
@@ -204,6 +232,8 @@ hard(x/x)
 
 374.(skip)(bad problem)(binary search)
 
+375.(skip)(bad problem)
+
 377/Sum.Combination Sum 4
 
 383.(skip)(easy dict)
@@ -213,6 +243,8 @@ hard(x/x)
 386.(skip)(str-int tricl
 
 387.First Unique Character in String(dict)
+
+388.(skip)(bad problem)
 
 389.Fine the Difference
 
@@ -235,6 +267,8 @@ hard(x/x)
 414.(skip)(bad problem)
 
 415.(skip)（底层操作）
+
+416/698.Partition Equal Sum Subsets
 
 423.(skip)(bad problem)
 
@@ -318,6 +352,8 @@ hard(x/x)
 
 516/Palin.Longest Palindrome Subsequence
 
+518.Coin Change 2
+
 520.(skip)(brute force)
 
 521.(skip)(bad problem)
@@ -386,6 +422,8 @@ hard(x/x)
 
 638.(skip)(bad problem)
 
+640.(skip)(bad problem)
+
 643.Maximum Average Subarray 1
 
 645.(skip)(dict)
@@ -408,6 +446,8 @@ hard(x/x)
 
 669.Trim a Binary Search Tree
 
+670.Maximum Swap
+
 671.Second Minimum Node In a BT
 
 672.(skip)(bad problem)
@@ -428,6 +468,8 @@ hard(x/x)
 
 697.Degree of an Array(brute force)(bad)
 
+698.Partition to K equals sum subsets
+ 
 700.Search in a Binary Searcch Tree
 
 701/BST.Insert into a BST
@@ -486,6 +528,8 @@ hard(x/x)
 
 806.Number of Lines To Write String (skip)(bad)
 
+809.(skip)(bad problem)
+
 811.Subdomain Visit Count (skip) (brute force)
 
 812.(skip)(bad problem)
@@ -501,6 +545,8 @@ hard(x/x)
 820.Short Encoding of Words
 
 821.Shortest Distance to a Character
+
+822.(skip)(bad problem)
 
 824.(skip)(brute force)
 
