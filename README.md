@@ -78,6 +78,8 @@ hard(x/x)
 
 83.Remove duplicates from sorted LL
 
+87.(skip)(bad problem)
+
 88.(skip)(bad problem)
 
 89.(skip)(bad problem)
@@ -97,6 +99,8 @@ hard(x/x)
 104.Maximum Depth of Binary Tree
 
 105/BT.Construct BT from inorder and preorder traversal
+
+106/BT.Construct BT from inorder and postorder traversal
 
 107.(skip)(same as BFS)
 
@@ -131,6 +135,10 @@ hard(x/x)
 153.Find Minimum in Rotated Sorted Array
 
 162.(skip)(bad problem)
+
+165.(skip)(bad problem)
+
+166.(skip)(bad problem)
 
 167.Two Sum 2 - sorted array
 
@@ -226,9 +234,13 @@ hard(x/x)
 
 357.(skip)(bad problem)
 
+365.(skip)(bad problem)
+
 367.(skip)(trick)(binary search)
 
 371.(skip)(bit manipulation)
+
+372.(skip)(bad problem)
 
 374.(skip)(bad problem)(binary search)
 
@@ -310,6 +322,8 @@ hard(x/x)
 
 470.Implement Rand10 using Rand7
 
+474.Ones and Zeros
+
 477.Total Hamming Distance(skip)(bit manipulation)(string trick)
 
 479.(skip)(bad problem)(math)
@@ -317,6 +331,8 @@ hard(x/x)
 481.(skip)(bad problem)
 
 482.(skip)(bad problem)
+
+483.(skip)(bad problem)(math)
 
 485.(skip) (brute force)
 
@@ -357,6 +373,8 @@ hard(x/x)
 520.(skip)(brute force)
 
 521.(skip)(bad problem)
+
+522.(skip)(bad problem)
 
 524.Longest Word in Dic	 Trough Deleting
 
@@ -528,6 +546,8 @@ hard(x/x)
 
 806.Number of Lines To Write String (skip)(bad)
 
+808.(skip)(bad problem)
+
 809.(skip)(bad problem)
 
 811.Subdomain Visit Count (skip) (brute force)
@@ -549,6 +569,8 @@ hard(x/x)
 822.(skip)(bad problem)
 
 824.(skip)(brute force)
+
+825.(skip)(bad problem)
 
 830.Position of Large Groups(mind the margin)
 
