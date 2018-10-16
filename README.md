@@ -1,9 +1,9 @@
 # Leetcode
 
 ## total:
-easy(170/237) 
-medium(130/437) 
-hard(x/x)
+easy(173/237+x) 
+medium(144/437+x) 
+hard(4/x)
 
 ## Problem
 1.Two Sum(dict)
@@ -34,6 +34,8 @@ hard(x/x)
 
 27.(skip)(bad problem)
 
+29.(skip)(bad problem)
+
 35.Search Insert Position
 
 38.(skip)(bad problem)
@@ -50,7 +52,11 @@ hard(x/x)
 
 49.Group Anagram
 
+50.(skip)(bad problem)
+
 53.Maximum Subarray
+
+54/59.Spiral Matrix
 
 58.(skip)(python trick)
 
@@ -198,6 +204,8 @@ hard(x/x)
 
 268.(skip)(math)(bad problem)
 
+274.(skip)(bad problem)
+
 283.Move Zeroes
 
 290.Word Pattern (same as 205)
@@ -264,6 +272,10 @@ hard(x/x)
 
 392.Is Subsequence
 
+393.(skip)(bad problem)
+
+397.(skip)(bad problem)
+
 398.(skip)(bad problem)
 
 400.(skip)(math
@@ -281,6 +293,8 @@ hard(x/x)
 415.(skip)（底层操作）
 
 416/698.Partition Equal Sum Subsets
+
+420.(skip)(bad problem)
 
 423.(skip)(bad problem)
 
@@ -602,6 +616,8 @@ hard(x/x)
 
 860.Lemonade Change(brute force)
 
+866.(skip)(bad problem)
+
 868.Binary Gap (skip)(bin manipulation)
 
 872.Leaf-similar Trees
@@ -622,4 +638,8 @@ hard(x/x)
 
 896.Monotonic Array
 
+908.(skip)(bad problem)
+
 915.Partition Array into Disjoint Intervals
+
+917.Reverse Only Letters
