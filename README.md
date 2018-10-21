@@ -210,6 +210,8 @@ hard(4/x)
 
 283.Move Zeroes
 
+287.Find the Duplicate Number
+
 290.Word Pattern (same as 205)
 
 292.(skip)(bad problem)
@@ -454,6 +456,8 @@ hard(4/x)
 
 633.Sum of Square Numbers
 
+636.(skip)(bad problem)
+
 637.Average of Levels in Binary Tree
 
 638.(skip)(bad problem)
@@ -479,6 +483,8 @@ hard(4/x)
 657.Robot Return To Origin (skip)(dict)
 
 661.(skip)(bad problem)(brute force)
+
+662/BT,Maximum width of BT
 
 669.Trim a Binary Search Tree
 
@@ -625,6 +631,8 @@ hard(4/x)
 868.Binary Gap (skip)(bin manipulation)
 
 872.Leaf-similar Trees
+
+874.(skip)(bad problem)
 
 876.Middle of the Linked List
 
