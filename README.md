@@ -58,6 +58,8 @@ hard(4/x)
 
 54/59.Spiral Matrix
 
+55.Jump Game
+
 58.(skip)(python trick)
 
 59.Spiral Matrix 2(brute force)
@@ -446,6 +448,8 @@ hard(4/x)
 
 617.Merge Two Binary Trees
 
+622.Design Circular Queue
+
 623/BT.Add One Row to Tree
 
 633.Sum of Square Numbers
@@ -639,6 +643,8 @@ hard(4/x)
 896.Monotonic Array
 
 908.(skip)(bad problem)
+
+909.(skip)(bad problem)
 
 915.Partition Array into Disjoint Intervals
 
