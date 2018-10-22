@@ -60,6 +60,8 @@ hard(4/x)
 
 55.Jump Game
 
+57.Insert Intervals
+
 58.(skip)(python trick)
 
 59.Spiral Matrix 2(brute force)
