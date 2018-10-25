@@ -36,6 +36,8 @@ hard(4/x)
 
 29.(skip)(bad problem)
 
+34.Find First and last element in an array
+
 35.Search Insert Position
 
 38.(skip)(bad problem)
@@ -77,6 +79,8 @@ hard(4/x)
 69.(skip)(math)
 
 70.Climbing Stairs
+
+73.Set Matrix Zeroes
 
 75.Sort Colors
 
@@ -174,6 +178,8 @@ hard(4/x)
 
 206.Reverse Linked List(LL base)
 
+213/198.House Robber2(dp)
+
 215.Kth Largest number in an array(to do again)
 
 216.Combination Sum 3
@@ -210,6 +216,10 @@ hard(4/x)
 
 274.(skip)(bad problem)
 
+275.(skip)(bad problem)
+
+278.Find bad version(binary search)
+
 283.Move Zeroes
 
 287.Find the Duplicate Number
@@ -225,6 +235,8 @@ hard(4/x)
 309.Best Time to Buy and Sell with Cooldown
 
 319.(dkip)(bad problem)
+
+322.Coin change(backpack problem)
 
 326.(skip)(math)
 
@@ -261,6 +273,8 @@ hard(4/x)
 375.(skip)(bad problem)
 
 377/Sum.Combination Sum 4
+
+378.Kth smallest element in sorted matrix(heap)
 
 383.(skip)(easy dict)
 
@@ -519,6 +533,8 @@ hard(4/x)
 701/BST.Insert into a BST
 
 704.Binary Search
+
+705.Design Hashset
 
 709.To Lower Case (skip)(bad)
 
