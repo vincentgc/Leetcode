@@ -70,6 +70,8 @@ hard(4/x)
 
 62.Unique Paths
 
+63/62.Unique Paths 2
+
 64.Minimum Path Sum(dp)
 
 66.(skip)(trick)
@@ -187,6 +189,8 @@ hard(4/x)
 217.Contain Duplicates 1 (skip)(dict)
 
 219.Contain Duplicates 2
+
+223.Rectangle Area
 
 226.Invert Binary Tree
 
