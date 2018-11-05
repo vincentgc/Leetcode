@@ -106,6 +106,8 @@ hard(4/x)
 
 96/BST.Unique BST
 
+100/BT.Same Tree
+
 101.Symmetric Tree(two times traversal)
 
 102/BT.BT level order Traversal
@@ -119,6 +121,8 @@ hard(4/x)
 106/BT.Construct BT from inorder and postorder traversal
 
 107.(skip)(same as BFS)
+
+108/BST.Convert sorted Array to BST
 
 111.Minimum Depth
 
@@ -209,6 +213,8 @@ hard(4/x)
 240.Search a 2D matrix 2
 
 242.(skip)(brute force)(dict)
+
+257/BT.Binary Tree Path
 
 258.(skip)(bad problem)
 
@@ -338,6 +344,8 @@ hard(4/x)
 
 443.(skip)(bad broblem)(two pointer)
 
+447.(skip)(bad problem)
+
 448.Find all Numbers Disappeared in an Array
 
 451.Sort Character By frequency
@@ -361,6 +369,8 @@ hard(4/x)
 470.Implement Rand10 using Rand7
 
 474.Ones and Zeros
+
+476.(skip)(bit manipulation)
 
 477.Total Hamming Distance(skip)(bit manipulation)(string trick)
 
